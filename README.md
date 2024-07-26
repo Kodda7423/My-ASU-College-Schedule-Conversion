@@ -4,7 +4,7 @@
 The Conversion is made for https://gizmoa.com/college-schedule-maker/
 
 This program is extremely simple to use:
-1. Download the HTML data from your My ASU Schedule page by Right Clicking on the page in your browser and selecting "Save As". Make sure to save the html file in the same directory as this project or change the FILE_PATH constant to match the file path of the downloaded HTML
+1. Download the HTML data from your My ASU Schedule page (https://webapp4.asu.edu/myasu/student/schedule) by Right Clicking on the page in your browser and selecting "Save As". Make sure to save the html file in the same directory as this project or change the FILE_PATH constant to match the file path of the downloaded HTML
 2. Run the program, a file called "ASU Class Schedule.csmo" should be created in the same directory as the main.py script
 3. Go to https://gizmoa.com/college-schedule-maker/ and select the import button on the left hand side of the page
 4. Drag and drop the "ASU Class Schedule.csmo" into the popup box on https://gizmoa.com/college-schedule-maker/ and select yes
